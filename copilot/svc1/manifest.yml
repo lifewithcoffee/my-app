@@ -1,3 +1,5 @@
+# URL: http://my-ap-publi-1iippy8ktluzk-1040707465.ap-southeast-2.elb.amazonaws.com
+#
 # The manifest for the "svc1" service.
 # Read the full specification for the "Load Balanced Web Service" type at:
 #  https://aws.github.io/copilot-cli/docs/manifest/lb-web-service/
