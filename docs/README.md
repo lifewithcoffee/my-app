@@ -14,4 +14,4 @@ copilot svc deploy -n <service_name>
   http://my-ap-publi-1iippy8ktluzk-1040707465.ap-southeast-2.elb.amazonaws.com
 
 - svc2-blazorserver:
-  http://my-ap-publi-1iippy8ktluzk-1040707465.ap-southeast-2.elb.amazonaws.com/blazor-server
+  http://my-ap-publi-1iippy8ktluzk-1040707465.ap-southeast-2.elb.amazonaws.com/svc2-blazorserver
