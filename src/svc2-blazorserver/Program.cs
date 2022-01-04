@@ -18,6 +18,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 
+app.UsePathBase("/svc2-blazorserver");
 app.UseStaticFiles();
 
 app.UseRouting();
