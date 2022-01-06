@@ -13,7 +13,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5136",
-      "launchUrl": "svc2-blazorserver",
+      "launchUrl": "svc2",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
